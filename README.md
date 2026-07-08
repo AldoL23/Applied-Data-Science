@@ -2,7 +2,7 @@
 
 IBM Data Science Professional Certificate Capstone Project.
 
-Predict whether the Falcon 9 first stage will land successfully, using data collected from SpaceX API, web scraping, and SQL queries. Includes interactive dashboards, geospatial analysis, and machine learning models.
+Predict whether the Falcon 9 first stage will land successfully, using data collected from the SpaceX API, web scraping, and SQL queries. Includes interactive dashboards, geospatial analysis, and machine learning models.
 
 ## Contents
 
